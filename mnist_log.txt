@@ -1,0 +1,89 @@
+Hello NN
+Data Loading
+Data Loaded
+Compiling model...
+train_steps 469
+Epoch: 1
+  step: 0, acc: 0.1250000000, loss: 3.7821934348 ( data_loss: 3.6533259442 , regularization_loss: 0.1288674905 ) lr: 0.0050000000
+  step: 100, acc: 0.8750000000, loss: 0.4995498233 ( data_loss: 0.3695901603 , regularization_loss: 0.1299596630 ) lr: 0.0049504950
+  step: 200, acc: 0.9375000000, loss: 0.3218205466 ( data_loss: 0.2122651200 , regularization_loss: 0.1095554266 ) lr: 0.0049019608
+  step: 300, acc: 0.8671875000, loss: 0.5914180845 ( data_loss: 0.4894036253 , regularization_loss: 0.1020144592 ) lr: 0.0048543689
+  step: 400, acc: 0.9296875000, loss: 0.3778272177 ( data_loss: 0.2786498611 , regularization_loss: 0.0991773566 ) lr: 0.0048076923
+  step: 468, acc: 0.9062500000, loss: 0.5181686619 ( data_loss: 0.4255153177 , regularization_loss: 0.0926533442 ) lr: 0.0047764616
+  training, acc: 0.8715166667, loss: 0.4277047975, lr: 0.0047764616
+Epoch: 2
+  step: 0, acc: 0.9609375000, loss: 0.2400132843 ( data_loss: 0.1475361104 , regularization_loss: 0.0924771739 ) lr: 0.0047760053
+  step: 100, acc: 0.9375000000, loss: 0.2586778167 ( data_loss: 0.1710664477 , regularization_loss: 0.0876113690 ) lr: 0.0047308165
+  step: 200, acc: 0.9375000000, loss: 0.2931546897 ( data_loss: 0.1974926342 , regularization_loss: 0.0956620555 ) lr: 0.0046864748
+  step: 300, acc: 0.9765625000, loss: 0.2665621294 ( data_loss: 0.1710915852 , regularization_loss: 0.0954705443 ) lr: 0.0046429566
+  step: 400, acc: 0.8828125000, loss: 0.5538105508 ( data_loss: 0.4592136475 , regularization_loss: 0.0945969033 ) lr: 0.0046002392
+  step: 468, acc: 0.9583333333, loss: 0.3326530399 ( data_loss: 0.2393932397 , regularization_loss: 0.0932598002 ) lr: 0.0045716376
+  training, acc: 0.9295000000, loss: 0.2270190274, lr: 0.0045716376
+Epoch: 3
+  step: 0, acc: 0.9687500000, loss: 0.1986713382 ( data_loss: 0.1055520339 , regularization_loss: 0.0931193043 ) lr: 0.0045712196
+  step: 100, acc: 0.9375000000, loss: 0.2112623090 ( data_loss: 0.1177245057 , regularization_loss: 0.0935378033 ) lr: 0.0045298061
+  step: 200, acc: 0.9531250000, loss: 0.2665997743 ( data_loss: 0.1685360917 , regularization_loss: 0.0980636826 ) lr: 0.0044891363
+  step: 300, acc: 0.9609375000, loss: 0.3054125027 ( data_loss: 0.2120747381 , regularization_loss: 0.0933377646 ) lr: 0.0044491902
+  step: 400, acc: 0.8984375000, loss: 0.4584890888 ( data_loss: 0.3593756186 , regularization_loss: 0.0991134702 ) lr: 0.0044099488
+  step: 468, acc: 0.9479166667, loss: 0.3532598141 ( data_loss: 0.2549375324 , regularization_loss: 0.0983222817 ) lr: 0.0043836577
+  training, acc: 0.9379500000, loss: 0.1962619551, lr: 0.0043836577
+Epoch: 4
+  step: 0, acc: 0.9609375000, loss: 0.2255868044 ( data_loss: 0.1272118019 , regularization_loss: 0.0983750024 ) lr: 0.0043832734
+  step: 100, acc: 0.9218750000, loss: 0.3051138156 ( data_loss: 0.2047317266 , regularization_loss: 0.1003820890 ) lr: 0.0043451812
+  step: 200, acc: 0.9609375000, loss: 0.2340570523 ( data_loss: 0.1306923917 , regularization_loss: 0.1033646605 ) lr: 0.0043077453
+  step: 300, acc: 0.9531250000, loss: 0.2909891418 ( data_loss: 0.1869074182 , regularization_loss: 0.1040817235 ) lr: 0.0042709490
+  step: 400, acc: 0.8984375000, loss: 0.5522227266 ( data_loss: 0.4539565306 , regularization_loss: 0.0982661960 ) lr: 0.0042347760
+  step: 468, acc: 0.9791666667, loss: 0.3313738474 ( data_loss: 0.2302819775 , regularization_loss: 0.1010918700 ) lr: 0.0042105263
+  training, acc: 0.9441666667, loss: 0.1788288608, lr: 0.0042105263
+Epoch: 5
+  step: 0, acc: 0.9843750000, loss: 0.1906473939 ( data_loss: 0.0893938438 , regularization_loss: 0.1012535501 ) lr: 0.0042101718
+  step: 100, acc: 0.9296875000, loss: 0.2556836105 ( data_loss: 0.1507340166 , regularization_loss: 0.1049495939 ) lr: 0.0041750167
+  step: 200, acc: 0.9609375000, loss: 0.2394015649 ( data_loss: 0.1331337324 , regularization_loss: 0.1062678325 ) lr: 0.0041404439
+  step: 300, acc: 0.9687500000, loss: 0.2502534916 ( data_loss: 0.1458839826 , regularization_loss: 0.1043695090 ) lr: 0.0041064389
+  step: 400, acc: 0.8984375000, loss: 0.4703230753 ( data_loss: 0.3609230638 , regularization_loss: 0.1094000115 ) lr: 0.0040729879
+  step: 468, acc: 0.9687500000, loss: 0.3229223214 ( data_loss: 0.2176146832 , regularization_loss: 0.1053076382 ) lr: 0.0040505509
+  training, acc: 0.9446166667, loss: 0.1756419748, lr: 0.0040505509
+Epoch: 6
+  step: 0, acc: 0.9687500000, loss: 0.2402372568 ( data_loss: 0.1349436956 , regularization_loss: 0.1052935612 ) lr: 0.0040502228
+  step: 100, acc: 0.9375000000, loss: 0.2688212366 ( data_loss: 0.1674945010 , regularization_loss: 0.1013267356 ) lr: 0.0040176778
+  step: 200, acc: 0.9609375000, loss: 0.2589721265 ( data_loss: 0.1557606886 , regularization_loss: 0.1032114379 ) lr: 0.0039856517
+  step: 300, acc: 0.9687500000, loss: 0.2389103207 ( data_loss: 0.1308485033 , regularization_loss: 0.1080618174 ) lr: 0.0039541321
+  step: 400, acc: 0.9140625000, loss: 0.4068586646 ( data_loss: 0.2845617948 , regularization_loss: 0.1222968698 ) lr: 0.0039231071
+  step: 468, acc: 0.9583333333, loss: 0.3529206251 ( data_loss: 0.2383581592 , regularization_loss: 0.1145624659 ) lr: 0.0039022867
+  training, acc: 0.9480166667, loss: 0.1655058029, lr: 0.0039022867
+Epoch: 7
+  step: 0, acc: 0.9453125000, loss: 0.2203421350 ( data_loss: 0.1059239832 , regularization_loss: 0.1144181518 ) lr: 0.0039019822
+  step: 100, acc: 0.9531250000, loss: 0.1935301997 ( data_loss: 0.0915055209 , regularization_loss: 0.1020246787 ) lr: 0.0038717671
+  step: 200, acc: 0.9843750000, loss: 0.2046456433 ( data_loss: 0.0980759457 , regularization_loss: 0.1065696976 ) lr: 0.0038420163
+  step: 300, acc: 0.9531250000, loss: 0.2784777298 ( data_loss: 0.1708244709 , regularization_loss: 0.1076532589 ) lr: 0.0038127192
+  step: 400, acc: 0.9140625000, loss: 0.3477801812 ( data_loss: 0.2455370152 , regularization_loss: 0.1022431659 ) lr: 0.0037838656
+  step: 468, acc: 0.9791666667, loss: 0.2992072244 ( data_loss: 0.1966858747 , regularization_loss: 0.1025213497 ) lr: 0.0037644933
+  training, acc: 0.9521666667, loss: 0.1544198310, lr: 0.0037644933
+Epoch: 8
+  step: 0, acc: 0.9765625000, loss: 0.2131835095 ( data_loss: 0.1107910373 , regularization_loss: 0.1023924721 ) lr: 0.0037642099
+  step: 100, acc: 0.9609375000, loss: 0.2400555214 ( data_loss: 0.1416540123 , regularization_loss: 0.0984015091 ) lr: 0.0037360831
+  step: 200, acc: 0.9453125000, loss: 0.2667602240 ( data_loss: 0.1659947200 , regularization_loss: 0.1007655040 ) lr: 0.0037083735
+  step: 300, acc: 0.9609375000, loss: 0.2741374877 ( data_loss: 0.1614408938 , regularization_loss: 0.1126965939 ) lr: 0.0036810719
+  step: 400, acc: 0.8984375000, loss: 0.4872067636 ( data_loss: 0.3757582183 , regularization_loss: 0.1114485453 ) lr: 0.0036541694
+  step: 468, acc: 0.9895833333, loss: 0.2972603739 ( data_loss: 0.1920274773 , regularization_loss: 0.1052328966 ) lr: 0.0036360992
+  training, acc: 0.9512000000, loss: 0.1526182714, lr: 0.0036360992
+Epoch: 9
+  step: 0, acc: 0.9765625000, loss: 0.2132794700 ( data_loss: 0.1082316939 , regularization_loss: 0.1050477761 ) lr: 0.0036358348
+  step: 100, acc: 0.9218750000, loss: 0.3116995851 ( data_loss: 0.2071060444 , regularization_loss: 0.1045935408 ) lr: 0.0036095871
+  step: 200, acc: 0.9687500000, loss: 0.2237692869 ( data_loss: 0.1261789711 , regularization_loss: 0.0975903158 ) lr: 0.0035837156
+  step: 300, acc: 0.9609375000, loss: 0.2218288995 ( data_loss: 0.1177392576 , regularization_loss: 0.1040896419 ) lr: 0.0035582124
+  step: 400, acc: 0.9375000000, loss: 0.3567787700 ( data_loss: 0.2479266555 , regularization_loss: 0.1088521145 ) lr: 0.0035330695
+  step: 468, acc: 0.9791666667, loss: 0.3074808091 ( data_loss: 0.2028683437 , regularization_loss: 0.1046124655 ) lr: 0.0035161744
+  training, acc: 0.9543500000, loss: 0.1439480277, lr: 0.0035161744
+Epoch: 10
+  step: 0, acc: 0.9843750000, loss: 0.1983647880 ( data_loss: 0.0940006555 , regularization_loss: 0.1043641326 ) lr: 0.0035159271
+  step: 100, acc: 0.9140625000, loss: 0.3112675704 ( data_loss: 0.2128532221 , regularization_loss: 0.0984143483 ) lr: 0.0034913763
+  step: 200, acc: 0.9765625000, loss: 0.1804821629 ( data_loss: 0.0794647027 , regularization_loss: 0.1010174602 ) lr: 0.0034671659
+  step: 300, acc: 0.9687500000, loss: 0.2370775829 ( data_loss: 0.1332890722 , regularization_loss: 0.1037885107 ) lr: 0.0034432890
+  step: 400, acc: 0.9140625000, loss: 0.4177078957 ( data_loss: 0.3093988859 , regularization_loss: 0.1083090099 ) lr: 0.0034197387
+  step: 468, acc: 0.9687500000, loss: 0.3031817734 ( data_loss: 0.1985018921 , regularization_loss: 0.1046798813 ) lr: 0.0034039077
+  training, acc: 0.9558833333, loss: 0.1418339029, lr: 0.0034039077
+Saving Model
+Model Saved
+validation, acc: 0.9560000000, loss: 0.1539996059
+Bye NN
